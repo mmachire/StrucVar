@@ -7,3 +7,4 @@ where genes of interest in the output from the other functions, vcf_file is the 
 
 I've included a csv file of genes of interest and a file containing structural variants. 
 
+NOTE: The vcf file I included is a different one from the one I used for my actual project because that one was very large and took a couple days to run. I'm not sure if there is any overlap between the genes of interest that I submitted and the variants in this file. If there are not, I have included an example in the test data of what my output looked like.  
